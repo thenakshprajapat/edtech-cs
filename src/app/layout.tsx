@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "CS EdTech | Open Source Computer Science Path",
   description: "A free, open-source path to computer science mastery. Curated resources from Harvard CS50, FreeCodeCamp, and more.",
+  icons: {
+    icon: '/edtech-cs/icon.svg',
+  },
 };
 
 export default function RootLayout({
