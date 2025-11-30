@@ -1,5 +1,7 @@
 # CS EdTech - Open Source Learning Hub
 
+![Deploy to GitHub Pages](https://github.com/thenakshprajapat/edtech-cs/actions/workflows/deploy.yml/badge.svg)
+
 A modern, open-source platform for computer science education. This project aggregates high-quality resources like Harvard's CS50 and FreeCodeCamp into structured, interactive learning paths.
 
 ## Features
